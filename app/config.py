@@ -12,8 +12,8 @@ config_dir.mkdir(exist_ok=True)
 
 class Bot:
     bot = {
-        "api_id": 1234567,
-        "api_hash": "0123456789abcdef0123456789abcdef",
+        "api_id": 23878955,
+        "api_hash": "07637a6c4c4566dc3923fa29d6c84b67",
         "admins": []
     }
 
